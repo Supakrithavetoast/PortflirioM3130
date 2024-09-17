@@ -1,0 +1,94 @@
+body{
+	background-color: lightgreen;
+}
+.container{
+	background-color: palegoldenrod;
+	width: 1000px;
+	height: 900px;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+.TITLE {
+	margin-left: 350px;
+	margin-right: 350px;
+	padding-left: 20px;
+	background-color: skyblue;
+}
+.Quote {
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: skyblue;
+}
+.IMG img {
+	margin-top: 10px;
+	padding-left: 300px;
+	padding-right: 300px;
+	width: 400px;
+	height: 300px;
+}
+.PIC img {
+	display: inline;
+	width: 325px;
+	height: 225px;
+	padding: 5px;
+	margin-left: 350px;
+}
+.Link p {
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: lightgray;
+	padding-left: 45px;
+	padding-right: 45px;
+	text-align: center;
+	display: inline;
+	font-size: 25px;
+}
+.Description {
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: skyblue;	
+}
+.From{
+	margin-left: 325px;
+	margin-right: 325px;
+	padding-left: 20px;
+	background-color: skyblue;	
+}
+.navigation-bar{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.Education {
+	margin-top: 50px;
+	margin-left: 25px;
+	margin-right: 25px;
+	background-color: lightyellow;
+}
+.Information{
+	margin-top: 50px;
+	margin-left: 25px;
+	margin-right: 25px;
+	background-color: lightyellow;
+}
+.Introduction{
+	text-align: center;
+}
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
